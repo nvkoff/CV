@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 5px;
+
+  background-color: gray;
+
+  &__name {
+    display: flex;
+    flex-direction: column;
+
+  }
+
+  &__nav {
+    display: flex;
+    gap: 20px;
+
+  }
+}
