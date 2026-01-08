@@ -1,0 +1,19 @@
+{
+  "name": "nvkoff-cv",
+  "version": "1.0.0",
+  "description": "CV",
+  "main": "index.js",
+  "scripts": {
+    "test": "git status"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvkoff/CV.git"
+  },
+  "author": "nvkoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nvkoff/CV/issues"
+  },
+  "homepage": "https://github.com/nvkoff/CV#readme"
+}
